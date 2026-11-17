@@ -1,2 +1,2 @@
 # superagent-playground
-Sndbox for the DeepSeek dsh-superagent prototype
+Sandbox for the DeepSeek dsh-superagent prototype
